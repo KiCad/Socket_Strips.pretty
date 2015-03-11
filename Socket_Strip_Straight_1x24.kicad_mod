@@ -1,10 +1,10 @@
 (module Socket_Strip_Straight_1x24 (layer F.Cu)
   (descr "Through hole socket strip")
   (tags "socket strip")
-  (fp_text reference Socket_Strip_Straight_1x24 (at 0 -5.1) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -5.1) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 -3.1) (layer F.SilkS) hide
+  (fp_text value Socket_Strip_Straight_1x24 (at 0 -3.1) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.75 -1.75) (end -1.75 1.75) (layer F.CrtYd) (width 0.05))
@@ -42,7 +42,7 @@
   (pad 22 thru_hole oval (at 53.34 0) (size 1.7272 2.032) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad 23 thru_hole oval (at 55.88 0) (size 1.7272 2.032) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad 24 thru_hole oval (at 58.42 0) (size 1.7272 2.032) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
-  (model Socket_Strips/Socket_Strip_Straight_1x24.wrl
+  (model Socket_Strips.3dshapes/Socket_Strip_Straight_1x24.wrl
     (at (xyz 1.15 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))
