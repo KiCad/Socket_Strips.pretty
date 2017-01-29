@@ -1,4 +1,4 @@
-(module Socket_Strip_Angled_1x08_Pitch2.54mm (layer F.Cu) (tedit 588DDCDE)
+(module Socket_Strip_Angled_1x08_Pitch2.54mm (layer F.Cu) (tedit 588DE956)
   (descr "Through hole angled socket strip, 1x08, 2.54mm pitch, 8.51mm socket length, single row")
   (tags "Through hole angled socket strip THT 1x08 2.54mm single row")
   (fp_text reference REF** (at -4.38 -2.27) (layer F.SilkS)
@@ -158,6 +158,6 @@
   (model Socket_Strips.3dshapes/Socket_Strip_Angled_1x08_Pitch2.54mm.wrl
     (at (xyz 0 -0.35 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 90))
+    (rotate (xyz 0 0 270))
   )
 )

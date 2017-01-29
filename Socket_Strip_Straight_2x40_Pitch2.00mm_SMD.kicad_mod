@@ -1,4 +1,4 @@
-(module Socket_Strip_Straight_2x40_Pitch2.00mm_SMD (layer F.Cu) (tedit 588DDCE6)
+(module Socket_Strip_Straight_2x40_Pitch2.00mm_SMD (layer F.Cu) (tedit 588DE960)
   (descr "surface-mounted straight socket strip, 2x40, 2.00mm pitch, double rows")
   (tags "Surface mounted socket strip SMD 2x40 2.00mm double row")
   (attr smd)

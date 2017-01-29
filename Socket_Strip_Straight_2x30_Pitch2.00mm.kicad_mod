@@ -1,4 +1,4 @@
-(module Socket_Strip_Straight_2x30_Pitch2.00mm (layer F.Cu) (tedit 588DDCE5)
+(module Socket_Strip_Straight_2x30_Pitch2.00mm (layer F.Cu) (tedit 588DE95F)
   (descr "Through hole straight socket strip, 2x30, 2.00mm pitch, double rows")
   (tags "Through hole socket strip THT 2x30 2.00mm double row")
   (fp_text reference REF** (at -1 -2.06) (layer F.SilkS)

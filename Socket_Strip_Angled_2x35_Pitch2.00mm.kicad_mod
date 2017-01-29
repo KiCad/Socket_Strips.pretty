@@ -1,4 +1,4 @@
-(module Socket_Strip_Angled_2x35_Pitch2.00mm (layer F.Cu) (tedit 588DDCE5)
+(module Socket_Strip_Angled_2x35_Pitch2.00mm (layer F.Cu) (tedit 588DE960)
   (descr "Through hole angled socket strip, 2x35, 2.00mm pitch, 6.35mm socket length, double rows")
   (tags "Through hole angled socket strip THT 2x35 2.00mm double row")
   (fp_text reference REF** (at -4.31 -2) (layer F.SilkS)

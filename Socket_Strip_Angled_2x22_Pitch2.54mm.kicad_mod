@@ -1,4 +1,4 @@
-(module Socket_Strip_Angled_2x22_Pitch2.54mm (layer F.Cu) (tedit 588DDCE0)
+(module Socket_Strip_Angled_2x22_Pitch2.54mm (layer F.Cu) (tedit 588DE959)
   (descr "Through hole angled socket strip, 2x22, 2.54mm pitch, 8.51mm socket length, double rows")
   (tags "Through hole angled socket strip THT 2x22 2.54mm double row")
   (fp_text reference REF** (at -5.65 -2.27) (layer F.SilkS)
@@ -432,8 +432,8 @@
   (pad 43 thru_hole oval (at 0 53.34) (size 1.7 1.7) (drill 1.0) (layers *.Cu *.Mask))
   (pad 44 thru_hole oval (at -2.54 53.34) (size 1.7 1.7) (drill 1.0) (layers *.Cu *.Mask))
   (model Socket_Strips.3dshapes/Socket_Strip_Angled_2x22_Pitch2.54mm.wrl
-    (at (xyz 0.05 -1.05 0))
+    (at (xyz -0.05 -1.05 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 90))
+    (rotate (xyz 0 0 270))
   )
 )
