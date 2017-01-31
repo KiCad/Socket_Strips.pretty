@@ -480,7 +480,7 @@
   (pad 48 thru_hole oval (at -2 46) (size 1.35 1.35) (drill 0.8) (layers *.Cu *.Mask))
   (pad 49 thru_hole oval (at 0 48) (size 1.35 1.35) (drill 0.8) (layers *.Cu *.Mask))
   (pad 50 thru_hole oval (at -2 48) (size 1.35 1.35) (drill 0.8) (layers *.Cu *.Mask))
-  (model Socket_Strip.3dshapes/Socket_Strip_Angled_2x25_Pitch2.00mm.wrl
+  (model Socket_Strips.3dshapes/Socket_Strip_Angled_2x25_Pitch2.00mm.wrl
     (at (xyz 0.03937 -0.944882 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))

@@ -90,7 +90,7 @@
   (pad 2 thru_hole oval (at 0 2) (size 1.35 1.35) (drill 0.8) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at 0 4) (size 1.35 1.35) (drill 0.8) (layers *.Cu *.Mask))
   (pad 4 thru_hole oval (at 0 6) (size 1.35 1.35) (drill 0.8) (layers *.Cu *.Mask))
-  (model Socket_Strip.3dshapes/Socket_Strip_Angled_1x04_Pitch2.00mm.wrl
+  (model Socket_Strips.3dshapes/Socket_Strip_Angled_1x04_Pitch2.00mm.wrl
     (at (xyz 0 -0.11811 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
